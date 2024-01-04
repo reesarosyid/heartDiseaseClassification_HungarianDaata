@@ -7,4 +7,4 @@ plotly==5.7.0
 scikit_learn==1.0.2
 streamlit==1.8.1
 tensorflow==2.8.0
-
+imbalanced-learn==0.8.0
